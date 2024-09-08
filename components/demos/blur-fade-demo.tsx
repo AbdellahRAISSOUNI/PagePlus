@@ -5,25 +5,25 @@ import Link from "next/link";
 const works = [
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
-    title: "Rubbish Brothers",
-    link: "https://www.rubbishbrothers.com",
+    imageUrl: "/images/portfolio.png",
+    title: "My Portfolio",
+    link: "https://abdellah-raissouni-nextjs-portfolio1.netlify.app/",
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
-    title: "Atlas Massage",
-    link: "https://www.atlasmassage.ca",
+    imageUrl: "/images/carepulse.png",
+    title: "CarePulse",
+    link: "https://carepulse-mauve-three.vercel.app/",
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
+    imageUrl: "/images/canadass.png",
     title: "Canadian Security Solutions",
     link: "https://www.canadiansecuritysolutions.com",
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/business.webp",
+    imageUrl: "/images/flight.png",
     title: "Flight 9",
     link: "https://www.flight9.art",
   },
